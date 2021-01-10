@@ -8,6 +8,6 @@ class Teacher < User
   end 
   
   def teach 
-   puts "fizz"
+   KNOWLEDGE.sample
   end 
 end
