@@ -4,7 +4,7 @@ class Teacher < User
 
  
  def teach 
-   puts "buzz"
+   sample
   end 
   
   def teach 
