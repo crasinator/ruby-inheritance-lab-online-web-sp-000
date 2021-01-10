@@ -13,7 +13,7 @@ class User
   end 
   
   def teach 
-    puts #{KNOWLEDGE}
+    puts #{knowledge.sample(1)}
   end 
   
 end 
