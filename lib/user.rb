@@ -12,6 +12,9 @@ class User
     @knowledge << str
   end 
   
+  def teach 
+    puts "#{knowledge.sample(1)}"
+  end 
 
   
 end 
