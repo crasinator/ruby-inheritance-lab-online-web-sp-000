@@ -13,7 +13,7 @@ class User
   end 
   
   def teach 
-    puts "yeah"
+    puts #{knowledge}
   end 
   
 end 
