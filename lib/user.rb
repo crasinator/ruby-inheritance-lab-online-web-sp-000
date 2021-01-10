@@ -12,8 +12,5 @@ class User
     @knowledge << str
   end 
   
-  def teach 
-    puts "fizz"
-  end 
 
 end 
