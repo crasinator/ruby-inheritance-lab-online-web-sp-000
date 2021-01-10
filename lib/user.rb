@@ -12,5 +12,8 @@ class User
     @knowledge << str
   end 
   
+  def teach 
+    puts "yeah"
+  end 
   
 end 
