@@ -7,4 +7,7 @@ class Teacher < User
    puts "buzz"
   end 
   
+  def teach 
+   puts "fizz"
+  end 
 end
