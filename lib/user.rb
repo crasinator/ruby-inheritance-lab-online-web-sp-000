@@ -9,7 +9,7 @@ class User
   end 
   
   def learn(str)
-    knowledge << str
+    @knowledge << str
   end 
   
   
